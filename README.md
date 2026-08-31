@@ -4,13 +4,14 @@
 
 I’m a **Computer Science (Data Science) student** passionate about transforming raw data into meaningful insights and building **AI-powered systems that automate data analysis and decision-making**.
 
-Currently exploring **Generative AI, RAG, LangGraph, Vector Databases, Claude API, and autonomous AI agents**, while strengthening my foundations in **Python, SQL, Data Analytics, and Business Intelligence**.
+Currently exploring **Generative AI, RAG, LangGraph, Vector Databases, Claude API, and AI Agents**, while strengthening my foundations in **Python, SQL, Data Analytics, and Business Intelligence**.
 
 ---
 
 ## 💫 About Me
 
 * 🔭 Currently building an **AI-Powered Data Analyst Agent**
+* 🏥 Developed an **AI-Powered Healthcare Web Application — MediNest Hospital**
 * 📊 Interested in **Data Analytics, Business Analytics & Customer Analytics**
 * 🤖 Exploring **Generative AI, RAG & LLM Agents**
 * 💻 Working with **Python, SQL, Java & Data Analytics**
@@ -32,9 +33,25 @@ Currently exploring **Generative AI, RAG, LangGraph, Vector Databases, Claude AP
 * 🧹 Automating data cleaning and preparation
 * 📊 Performing analysis and visualization
 * 🔎 Implementing **RAG** over dataset documentation
-* 🗄️ Using **Pinecone / Chroma / FAISS** for vector search
+* 🗄️ Using vector databases for semantic search and retrieval
 * 🧠 Using Claude API to generate natural-language insights
-* ⚙️ Automating workflows using **n8n**
+* ⚙️ Automating analytical workflows using **n8n**
+
+---
+
+### 🏥 MediNest Hospital — AI-Powered Healthcare Web Application
+
+**Python • Streamlit • Generative AI • RAG • SQL • Data Analytics**
+
+> An AI-powered healthcare web application designed to provide intelligent assistance and streamline access to hospital-related information.
+
+* 🤖 Integrated an **AI-powered assistant** for healthcare and hospital-related queries
+* 🔎 Implemented **RAG** for retrieving relevant information from trusted hospital documentation
+* 🏥 Developed features for accessing hospital services, departments, doctors and healthcare information
+* 🗄️ Integrated structured hospital data for efficient information retrieval
+* 📊 Applied data analytics concepts to organize and present healthcare information
+* 💻 Built an interactive web interface using **Streamlit**
+* ⚙️ Designed the application with a focus on intelligent search, automation and user experience
 
 ---
 
@@ -174,6 +191,7 @@ B.Tech — Computer Science & Engineering (Data Science)
 **CGPA: 8.43 / 10**
 
 2023 – 2027
+
 ---
 
 ## 🌐 Connect With Me
@@ -211,4 +229,5 @@ B.Tech — Computer Science & Engineering (Data Science)
 ⭐ <b>Feel free to explore my repositories and connect with me!</b>
 
 </p>
+
 
