@@ -174,35 +174,6 @@ B.Tech — Computer Science & Engineering (Data Science)
 **CGPA: 8.43 / 10**
 
 2023 – 2027
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShwarnaSrivastava23&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-
-<br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=ShwarnaSrivastava23&theme=dark&hide_border=false" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShwarnaSrivastava23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShwarnaSrivastava23&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-
-</p>
-
 ---
 
 ## 🌐 Connect With Me
